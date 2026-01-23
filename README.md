@@ -8,14 +8,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/akkicodes-dev/100days-dsa/tree/master/0443-string-compression) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
 ## Two Pointers
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/akkicodes-dev/100days-dsa/tree/master/0443-string-compression) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
