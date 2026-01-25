@@ -1,22 +1,36 @@
-
 class Solution {
 public:
     int compress(vector<char>& chars) {
-        int i = 0, res = 0;
-        while (i < chars.size()) {
-            int groupLength = 1;
-            while (i + groupLength < chars.size() &&
-                   chars[i + groupLength] == chars[i]) {
-                groupLength++;
+        int n = chars.size();
+        int idx = 0;
+
+        for (int i = 0; i < n; i++) {
+            char ch = chars[i];
+            int count = 0;
+
+            while (i < n && chars[i] == ch) {
+                count++;
+                i++;
             }
-            chars[res++] = chars[i];
-            if (groupLength > 1) {
-                for (char c : to_string(groupLength)) {
-                    chars[res++] = c;
+
+            // BUG FIX 1:
+            // You wrote "==" which compares instead of assigning.
+            // It should be "=" to store the character.
+            if (count == 1) {
+                chars[idx++] = ch;  // <-- FIXED
+            } else {
+                chars[idx++] = ch;
+                string str = to_string(count);
+
+                for (char dig : str) {
+                    chars[idx++] = dig;
                 }
             }
-            i += groupLength;
+
+            i--;  // balancing the for-loop increment
         }
-        return res;
+
+        chars.resize(idx);
+        return idx;
     }
 };
