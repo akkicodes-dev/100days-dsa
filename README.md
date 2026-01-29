@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akkicodes-dev/100days-dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/akkicodes-dev/100days-dsa/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
 | [0791-custom-sort-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
+| [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Matrix
 |  |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [0791-custom-sort-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0791-custom-sort-string) |
 ## Prefix Sum
 |  |
