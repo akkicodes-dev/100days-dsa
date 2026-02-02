@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akkicodes-dev/100days-dsa/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/akkicodes-dev/100days-dsa/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/akkicodes-dev/100days-dsa/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0242-valid-anagram) |
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
 | [0791-custom-sort-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0791-custom-sort-string) |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/akkicodes-dev/100days-dsa/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/akkicodes-dev/100days-dsa/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/akkicodes-dev/100days-dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/akkicodes-dev/100days-dsa/tree/master/0443-string-compression) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akkicodes-dev/100days-dsa/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/akkicodes-dev/100days-dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
