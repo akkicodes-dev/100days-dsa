@@ -1,18 +1,48 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        if (nums.empty()) return 0;
-        int n = nums.size();
-        if (n == 1) return nums[0];
-        
-        vector<int> dp(n, 0);
-        dp[0] = nums[0];
-        dp[1] = max(nums[0], nums[1]);
-        
-        for (int i = 2; i < n; i++) {
-            dp[i] = max(dp[i - 1], dp[i - 2] + nums[i]);
+
+    int solve(vector<int>& nums, int index, vector<int>& dp) {
+
+        // Base Case:
+        // Agar saare houses dekh liye to lootne ke liye kuch nahi bacha.
+        if(index >= nums.size()) {
+            return 0;
         }
-        
-        return dp[n - 1];
+
+        // Optimization (Memoization):
+        // Agar is index ka answer pehle se calculate hai,
+        // to recursion dobara chalane ki zaroorat nahi.
+        if(dp[index] != -1) {
+            return dp[index];
+        }
+
+        // Choice 1: Current house loot lo.
+        // Fir next adjacent house nahi loot sakte,
+        // isliye index + 2 par jump karenge.
+        int includeAns = nums[index] + solve(nums, index + 2, dp);
+
+        // Choice 2: Current house skip kar do.
+        // Fir next house consider kar sakte hain.
+        int excludeAns = solve(nums, index + 1, dp);
+
+        // Dono choices me se maximum profit choose karo.
+        int finalAns = max(includeAns, excludeAns);
+
+        // IMPORTANT:
+        // Yehi optimization hai.
+        // Is index ka answer store kar diya.
+        // Next time same index aaya to direct use karenge.
+        dp[index] = finalAns;
+
+        return dp[index];
+    }
+
+    int rob(vector<int>& nums) {
+
+        // DP array:
+        // dp[i] = maximum loot possible starting from index i
+        vector<int> dp(nums.size(), -1);
+
+        return solve(nums, 0, dp);
     }
 };
