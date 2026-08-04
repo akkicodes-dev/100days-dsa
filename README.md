@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akkicodes-dev/100days-dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Depth-First Search
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akkicodes-dev/100days-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/akkicodes-dev/100days-dsa/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0518-coin-change-ii) |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Recursion
 |  |
 | ------- |
