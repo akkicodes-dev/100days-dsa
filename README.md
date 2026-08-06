@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/akkicodes-dev/100days-dsa/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akkicodes-dev/100days-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0416-partition-equal-subset-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akkicodes-dev/100days-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
