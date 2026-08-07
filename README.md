@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/akkicodes-dev/100days-dsa/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/akkicodes-dev/100days-dsa/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/akkicodes-dev/100days-dsa/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
 | [0273-integer-to-english-words](https://github.com/akkicodes-dev/100days-dsa/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/akkicodes-dev/100days-dsa/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akkicodes-dev/100days-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akkicodes-dev/100days-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/akkicodes-dev/100days-dsa/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
