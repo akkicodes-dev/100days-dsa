@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akkicodes-dev/100days-dsa/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
 | [0273-integer-to-english-words](https://github.com/akkicodes-dev/100days-dsa/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/akkicodes-dev/100days-dsa/tree/master/0415-add-strings) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akkicodes-dev/100days-dsa/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/akkicodes-dev/100days-dsa/tree/master/0044-wildcard-matching) |
 | [0273-integer-to-english-words](https://github.com/akkicodes-dev/100days-dsa/tree/master/0273-integer-to-english-words) |
 ## Knapsack Problem
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/akkicodes-dev/100days-dsa/tree/master/0415-add-strings) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/akkicodes-dev/100days-dsa/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
