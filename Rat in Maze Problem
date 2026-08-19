@@ -1,0 +1,119 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+bool isSafe(char arr[][3], int row, int col, bool visited[][3], int newX, int newY){
+    //Safe -> inside bounds, valid cell pr move krre honge, visited nahi hoga
+    if((newX >= 0 && newX < row) &&
+       (newY >= 0 && newY < col) &&
+       arr[newX][newY] == '.' &&
+       visited[newX][newY] == false){
+        return true;
+    }else{
+        return false;
+    }
+}
+
+void solve(char arr[][3],
+           int row,
+           int col,
+           int srcX,
+           int srcY,
+           string output,
+           int destX,
+           int destY,
+           bool visited[][3]){
+    //base case -> if current psotion == destination -> anwser is ready , print it and return
+    //store & compute
+    if(srcX == destX && srcY == destY){
+        //iska matlab rat is standing on dest  only
+        cout << output << endl;
+        return;
+    }
+
+    //1 case me Slove karunga Baki  recursion sambhal  lega
+    //1 case -> 1 movement - > up or downn or Left or Right
+
+    //up
+    int newX = srcX - 1;
+    int newY = srcY;
+
+    if(isSafe(arr, row, col, visited, newX, newY)){
+        visited[newX][newY] = true;
+        //baki recursion sambhal lega
+        solve(arr, row, col, newX, newY, output + 'U', destX, destY, visited);
+        //jab main wapas ayya
+        visited[newX][newY] = false;
+    }
+
+    //DOWn
+    newX = srcX + 1;
+    newY = srcY;
+
+    if(isSafe(arr, row, col, visited, newX, newY)){
+        visited[newX][newY] = true;
+        //baki recursion sambhal lega
+        solve(arr, row, col, newX, newY, output + 'D', destX, destY, visited);
+        //jab main wapas ayya
+        visited[newX][newY] = false;
+    }
+
+    //Left
+    newX = srcX;
+    newY = srcY - 1;
+
+    if(isSafe(arr, row, col, visited, newX, newY)){
+        visited[newX][newY] = true;
+        //baki recursion sambhal lega
+        solve(arr, row, col, newX, newY, output + 'L', destX, destY, visited);
+        //jab main wapas ayya
+        visited[newX][newY] = false;
+    }
+
+    //RIGHT
+    newX = srcX;
+    newY = srcY + 1;
+
+    if(isSafe(arr, row, col, visited, newX, newY)){
+        visited[newX][newY] = true;
+        //baki recursion sambhal lega
+        solve(arr, row, col, newX, newY, output + 'R', destX, destY, visited);
+        //jab main wapas ayya
+        visited[newX][newY] = false;
+    }
+}
+
+int main()
+{
+    //maze contains the '.' && '_'
+    //-> '.'-> rat can move here
+    //-> '_'-> rat cannot move here
+    char arr[3][3] = {
+        {'.','.','.'},
+        {'.','_','_'},
+        {'.','.','.'}
+    };
+
+    int row = 3;
+    int col = 3;
+
+    //src -> 0,0
+    int srcX = 0;
+    int srcY = 0;
+
+    //dest -> n-1,n-1 ->(2,2)
+    int destX = row - 1;
+    int destY = col - 1;
+
+    bool visited[3][3] = {
+        {true, false, false},
+        {false, false, false},
+        {false, false, false}
+    };
+
+    string output = "";
+
+    solve(arr, row, col, srcX, srcY, output, destX, destY, visited);
+
+    return 0;
+}
