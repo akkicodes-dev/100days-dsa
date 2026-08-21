@@ -3,7 +3,7 @@ public:
     unordered_map<int,bool>leftHorizontalCheck;
     unordered_map<int,bool>upperDaigonalCheck;
     unordered_map<int,bool>lowerDaigonalCheck;
-    bool isSafe(int row, int col,vector<vector<char>> &board ){
+    bool isSafe(int row, int col,vector<string> &board ){
         int n = board.size();
         //i nedd to  check  the three 3  directions 
         //left  horizonatl 
@@ -50,26 +50,27 @@ public:
         // there is no attack
         return true;
     }
-    void storeSolution(vector<vector<char>> &board, vector<vector<string>> &ans,int n){
-        vector<string>temp;
-        for(int row =0; row<n; row++){
-            string output ="";
-            for(int col=0; col<n; col++){
-                char ch = board[row][col];
-                output.push_back(ch);
-            }
-            //ek  string ready  hogyi'
-            temp.push_back(output);
-        }
-        //temp ready  hogya 
-        ans.push_back(temp);
+    // void storeSolution(vector<vector<char>> &board, vector<vector<string>> &ans,int n){
+    //     vector<string>temp;
+    //     for(int row =0; row<n; row++){
+    //         string output ="";
+    //         for(int col=0; col<n; col++){
+    //             char ch = board[row][col];
+    //             output.push_back(ch);
+    //         }
+    //         //ek  string ready  hogyi'
+    //         temp.push_back(output);
+    //     }
+    //     //temp ready  hogya 
+    //     ans.push_back(temp);
         
-    }
-    void solve(vector<vector<char>> &board,  vector<vector<string>> &ans, int n, int col ){
+    // }
+    void solve(vector<string> &board,  vector<vector<string>> &ans, int n, int col ){
         //base case
         if(col >= n){
             //iska matlab 1 ans ready  hogaya hai mhuje kya karna hai store karna hai eske andar 
-            storeSolution(board, ans, n);
+           // storeSolution(board, ans, n);
+           ans.push_back(board);
             return;
         }
         // 1 case hum solve karnge baki  recursion  sambhal  lega
@@ -95,7 +96,16 @@ public:
     vector<vector<string>> solveNQueens(int n) {
           vector<vector<string>> ans;
           // n*n board initlized with '.'  kitini  row s n rows har row ke anar '.' hoga 
-          vector<vector<char>> board(n,vector<char>(n,'.'));
+         // vector<vector<char>> board(n,vector<char>(n,'.'));
+        //  vector<string>board;
+        //  string temp = "";
+        //  for(int i=0; i<n; i++){
+        //     temp.push_back('.');
+        //  }
+        //  for(int  i=0; i<n; i++){
+        //     board.push_back(temp);
+        //  }
+        vector<string> board(n, string(n,'.'));
           //starting with the colum = 0;
           int col = 0;
 
