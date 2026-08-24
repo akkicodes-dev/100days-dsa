@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
+| [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
 ## Design
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/akkicodes-dev/100days-dsa/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0518-coin-change-ii) |
+| [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Recursion
 |  |
@@ -198,14 +200,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/akkicodes-dev/100days-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akkicodes-dev/100days-dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akkicodes-dev/100days-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akkicodes-dev/100days-dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0662-maximum-width-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
