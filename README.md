@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akkicodes-dev/100days-dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0045-jump-game-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/akkicodes-dev/100days-dsa/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/akkicodes-dev/100days-dsa/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/akkicodes-dev/100days-dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0242-valid-anagram) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akkicodes-dev/100days-dsa/tree/master/0037-sudoku-solver) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Depth-First Search
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akkicodes-dev/100days-dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/akkicodes-dev/100days-dsa/tree/master/0046-permutations) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akkicodes-dev/100days-dsa/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/akkicodes-dev/100days-dsa/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
@@ -216,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/akkicodes-dev/100days-dsa/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
