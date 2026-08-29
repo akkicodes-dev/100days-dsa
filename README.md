@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akkicodes-dev/100days-dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [0791-custom-sort-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0791-custom-sort-string) |
 | [0912-sort-an-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/0912-sort-an-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -230,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/akkicodes-dev/100days-dsa/tree/master/0037-sudoku-solver) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
