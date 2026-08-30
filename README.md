@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
 | [0912-sort-an-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/0912-sort-an-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akkicodes-dev/100days-dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akkicodes-dev/100days-dsa/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/akkicodes-dev/100days-dsa/tree/master/0179-largest-number) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
 |  |
 | ------- |
