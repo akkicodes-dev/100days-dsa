@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akkicodes-dev/100days-dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
 | [0912-sort-an-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/0912-sort-an-array) |
+| [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0791-custom-sort-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akkicodes-dev/100days-dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
+| [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
 | [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
+| [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Recursion
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/0912-sort-an-array) |
+| [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/akkicodes-dev/100days-dsa/tree/master/0051-n-queens) |
 | [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
+| [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 ## Algorithm X
 |  |
 | ------- |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akkicodes-dev/100days-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
+| [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 ## Tree
 |  |
 | ------- |
@@ -249,4 +255,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
+| [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 <!---LeetCode Topics End-->
