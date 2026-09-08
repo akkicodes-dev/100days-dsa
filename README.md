@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/akkicodes-dev/100days-dsa/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akkicodes-dev/100days-dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/akkicodes-dev/100days-dsa/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
 | [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 ## Recursion
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/akkicodes-dev/100days-dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/akkicodes-dev/100days-dsa/tree/master/0051-n-queens) |
+| [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
 ## Algorithm X
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akkicodes-dev/100days-dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
 ## Tree
 |  |
 | ------- |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
