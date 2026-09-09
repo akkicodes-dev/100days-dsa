@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akkicodes-dev/100days-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3871-count-commas-in-range-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/3871-count-commas-in-range-ii) |
 ## Matrix
 |  |
 | ------- |
