@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akkicodes-dev/100days-dsa/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/akkicodes-dev/100days-dsa/tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/akkicodes-dev/100days-dsa/tree/master/0273-integer-to-english-words) |
 ## Knapsack Problem
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akkicodes-dev/100days-dsa/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
