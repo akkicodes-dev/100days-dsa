@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0791-custom-sort-string) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akkicodes-dev/100days-dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 ## String
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/akkicodes-dev/100days-dsa/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
