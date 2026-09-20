@@ -32,12 +32,12 @@ public:
        //just foremed newList
        newLastNode -> next = NULL;
 
-       //delting old list
-       while(temp){
-        ListNode* nxt = temp->next;
-         delete temp;
-         temp = nxt;
-       }
+    //    //delting old list
+    //    while(temp){
+    //     ListNode* nxt = temp->next;
+    //      delete temp;
+    //      temp = nxt;
+    //    }
       
     return head;
 
