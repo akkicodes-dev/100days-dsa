@@ -56,17 +56,14 @@ public:
         //corner case -> = wala main bhul  jata hu wo  nahi bhulna hai
         prevSmallerElement(heights, prevAns);
 
-        vector<int>area;
+       int maxArea = INT_MIN;
         for(int i=0; i< nextAns.size(); i++){
             int width = nextAns[i] - prevAns[i] - 1;
             int height = heights[i];
             int currArea = width * height;
-            area.push_back(currArea);
+            maxArea = max(maxArea, currArea);
         }
-         int maxArea = INT_MIN;
-         for(int i=0; i< area.size(); i++){
-            maxArea = max(maxArea, area[i]);
-         }
+        
          return maxArea;
 
 
