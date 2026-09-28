@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/akkicodes-dev/100days-dsa/tree/master/0155-min-stack) |
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
 ## Trie
 |  |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/akkicodes-dev/100days-dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0234-palindrome-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
