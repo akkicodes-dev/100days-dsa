@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
 | [0791-custom-sort-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/akkicodes-dev/100days-dsa/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akkicodes-dev/100days-dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/akkicodes-dev/100days-dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0234-palindrome-linked-list) |
 | [0907-sum-of-subarray-minimums](https://github.com/akkicodes-dev/100days-dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/akkicodes-dev/100days-dsa/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [2104-sum-of-subarray-ranges](https://github.com/akkicodes-dev/100days-dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
