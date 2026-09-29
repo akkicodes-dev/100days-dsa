@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/akkicodes-dev/100days-dsa/tree/master/0890-find-and-replace-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akkicodes-dev/100days-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/akkicodes-dev/100days-dsa/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akkicodes-dev/100days-dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 ## Two Pointers
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/akkicodes-dev/100days-dsa/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akkicodes-dev/100days-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/akkicodes-dev/100days-dsa/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/akkicodes-dev/100days-dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
