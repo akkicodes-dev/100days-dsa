@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/akkicodes-dev/100days-dsa/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akkicodes-dev/100days-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/akkicodes-dev/100days-dsa/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/akkicodes-dev/100days-dsa/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/akkicodes-dev/100days-dsa/tree/master/0179-largest-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/akkicodes-dev/100days-dsa/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/akkicodes-dev/100days-dsa/tree/master/0053-maximum-subarray) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/akkicodes-dev/100days-dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0234-palindrome-linked-list) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akkicodes-dev/100days-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
