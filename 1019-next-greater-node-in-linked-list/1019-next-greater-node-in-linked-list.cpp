@@ -17,17 +17,20 @@ public:
             head = head -> next;
         }
         stack<int>st;
-        vector<int>ans(ll.size());//init 0.
+       // vector<int>ans(ll.size());//init 0.
 
         for(int i=0; i < ll.size(); i++){
             while(!st.empty() && ll[i] > ll[st.top()]){
                 //means, ith element is the next greter of the element
                 int kids =  st.top();
                 st.pop();
-                ans[kids] = ll[i];
+                ll[kids] = ll[i];
             }
             st.push(i);
         }
-        return ans;
+        while(!st.empty()){
+            ll[st.top()]= 0; st.pop();
+        }
+        return ll;
     }
 };
