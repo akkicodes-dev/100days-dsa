@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/akkicodes-dev/100days-dsa/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/akkicodes-dev/100days-dsa/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/akkicodes-dev/100days-dsa/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/akkicodes-dev/100days-dsa/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/akkicodes-dev/100days-dsa/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/akkicodes-dev/100days-dsa/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/akkicodes-dev/100days-dsa/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akkicodes-dev/100days-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/akkicodes-dev/100days-dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/akkicodes-dev/100days-dsa/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/akkicodes-dev/100days-dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akkicodes-dev/100days-dsa/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/akkicodes-dev/100days-dsa/tree/master/0901-online-stock-span) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/akkicodes-dev/100days-dsa/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/akkicodes-dev/100days-dsa/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/akkicodes-dev/100days-dsa/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/akkicodes-dev/100days-dsa/tree/master/0907-sum-of-subarray-minimums) |
