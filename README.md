@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/akkicodes-dev/100days-dsa/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/akkicodes-dev/100days-dsa/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/akkicodes-dev/100days-dsa/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/akkicodes-dev/100days-dsa/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/akkicodes-dev/100days-dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0242-valid-anagram) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/akkicodes-dev/100days-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/akkicodes-dev/100days-dsa/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/akkicodes-dev/100days-dsa/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/akkicodes-dev/100days-dsa/tree/master/0155-min-stack) |
