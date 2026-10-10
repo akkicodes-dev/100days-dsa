@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/akkicodes-dev/100days-dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akkicodes-dev/100days-dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0791-custom-sort-string) |
 | [0853-car-fleet](https://github.com/akkicodes-dev/100days-dsa/tree/master/0853-car-fleet) |
 | [0912-sort-an-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/0912-sort-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akkicodes-dev/100days-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/0912-sort-an-array) |
 | [1776-car-fleet-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/1776-car-fleet-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akkicodes-dev/100days-dsa/tree/master/0222-count-complete-tree-nodes) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
