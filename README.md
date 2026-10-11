@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/akkicodes-dev/100days-dsa/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Hash Table
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akkicodes-dev/100days-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
