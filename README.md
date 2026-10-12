@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/akkicodes-dev/100days-dsa/tree/master/1472-design-browser-history) |
 | [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 | [1776-car-fleet-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/1776-car-fleet-ii) |
+| [1929-concatenation-of-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/1929-concatenation-of-array) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/akkicodes-dev/100days-dsa/tree/master/2104-sum-of-subarray-ranges) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/akkicodes-dev/100days-dsa/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/akkicodes-dev/100days-dsa/tree/master/0735-asteroid-collision) |
+| [1929-concatenation-of-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/akkicodes-dev/100days-dsa/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Linked List
 |  |
