@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-car-fleet-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/1776-car-fleet-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/akkicodes-dev/100days-dsa/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/akkicodes-dev/100days-dsa/tree/master/2469-convert-the-temperature) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akkicodes-dev/100days-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3871-count-commas-in-range-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/3871-count-commas-in-range-ii) |
