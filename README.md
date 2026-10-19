@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akkicodes-dev/100days-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/akkicodes-dev/100days-dsa/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/akkicodes-dev/100days-dsa/tree/master/0198-house-robber) |
+| [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/0912-sort-an-array) |
 | [1776-car-fleet-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/1776-car-fleet-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -415,9 +417,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/akkicodes-dev/100days-dsa/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/akkicodes-dev/100days-dsa/tree/master/1472-design-browser-history) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
