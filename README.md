@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/akkicodes-dev/100days-dsa/tree/master/0155-min-stack) |
+| [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
 | [0901-online-stock-span](https://github.com/akkicodes-dev/100days-dsa/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/akkicodes-dev/100days-dsa/tree/master/1472-design-browser-history) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/akkicodes-dev/100days-dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akkicodes-dev/100days-dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/akkicodes-dev/100days-dsa/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/akkicodes-dev/100days-dsa/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/akkicodes-dev/100days-dsa/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/akkicodes-dev/100days-dsa/tree/master/0735-asteroid-collision) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -439,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
