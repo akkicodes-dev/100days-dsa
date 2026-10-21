@@ -30,7 +30,7 @@ public:
             }
         }
 
-        if (radiantQ.empty())  return "Dire"; 
-        return "Radiant";
+        if (!radiantQ.empty()) return "Radiant"; 
+        return "Dire"; 
     }
 };
