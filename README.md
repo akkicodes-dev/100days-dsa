@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/akkicodes-dev/100days-dsa/tree/master/0539-minimum-time-difference) |
+| [0643-maximum-average-subarray-i](https://github.com/akkicodes-dev/100days-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/akkicodes-dev/100days-dsa/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akkicodes-dev/100days-dsa/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/akkicodes-dev/100days-dsa/tree/master/0853-car-fleet) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/akkicodes-dev/100days-dsa/tree/master/0643-maximum-average-subarray-i) |
 ## Monotonic Queue
 |  |
 | ------- |
