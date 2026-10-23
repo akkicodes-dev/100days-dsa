@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/akkicodes-dev/100days-dsa/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/akkicodes-dev/100days-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
 | [0901-online-stock-span](https://github.com/akkicodes-dev/100days-dsa/tree/master/0901-online-stock-span) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/akkicodes-dev/100days-dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/akkicodes-dev/100days-dsa/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/akkicodes-dev/100days-dsa/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/akkicodes-dev/100days-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/akkicodes-dev/100days-dsa/tree/master/0394-decode-string) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/akkicodes-dev/100days-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/akkicodes-dev/100days-dsa/tree/master/0649-dota2-senate) |
