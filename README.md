@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
 | [0901-online-stock-span](https://github.com/akkicodes-dev/100days-dsa/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/akkicodes-dev/100days-dsa/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/akkicodes-dev/100days-dsa/tree/master/1472-design-browser-history) |
 ## Trie
 |  |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/akkicodes-dev/100days-dsa/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/akkicodes-dev/100days-dsa/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/akkicodes-dev/100days-dsa/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/akkicodes-dev/100days-dsa/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/akkicodes-dev/100days-dsa/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/akkicodes-dev/100days-dsa/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
