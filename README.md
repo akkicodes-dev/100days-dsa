@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
 | [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/akkicodes-dev/100days-dsa/tree/master/1981-minimize-the-difference-between-target-and-chosen-elements) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/akkicodes-dev/100days-dsa/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Recursion
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/akkicodes-dev/100days-dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/akkicodes-dev/100days-dsa/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/akkicodes-dev/100days-dsa/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/akkicodes-dev/100days-dsa/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Linked List
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/akkicodes-dev/100days-dsa/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/akkicodes-dev/100days-dsa/tree/master/0933-number-of-recent-calls) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/akkicodes-dev/100days-dsa/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Sliding Window
 |  |
 | ------- |
