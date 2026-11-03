@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0676-implement-magic-dictionary](https://github.com/akkicodes-dev/100days-dsa/tree/master/0676-implement-magic-dictionary) |
 | [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/akkicodes-dev/100days-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
+| [0543-diameter-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akkicodes-dev/100days-dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/akkicodes-dev/100days-dsa/tree/master/0222-count-complete-tree-nodes) |
+| [0543-diameter-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/akkicodes-dev/100days-dsa/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/akkicodes-dev/100days-dsa/tree/master/0968-binary-tree-cameras) |
 ## Dancing Links
 |  |
