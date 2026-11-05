@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0113-path-sum-ii) |
 | [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/akkicodes-dev/100days-dsa/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/akkicodes-dev/100days-dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/akkicodes-dev/100days-dsa/tree/master/0051-n-queens) |
+| [0113-path-sum-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0113-path-sum-ii) |
 | [0526-beautiful-arrangement](https://github.com/akkicodes-dev/100days-dsa/tree/master/0526-beautiful-arrangement) |
 | [1655-distribute-repeating-integers](https://github.com/akkicodes-dev/100days-dsa/tree/master/1655-distribute-repeating-integers) |
 ## Algorithm X
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/akkicodes-dev/100days-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0341-flatten-nested-list-iterator](https://github.com/akkicodes-dev/100days-dsa/tree/master/0341-flatten-nested-list-iterator) |
 | [0543-diameter-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0543-diameter-of-binary-tree) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/akkicodes-dev/100days-dsa/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/akkicodes-dev/100days-dsa/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/akkicodes-dev/100days-dsa/tree/master/0662-maximum-width-of-binary-tree) |
